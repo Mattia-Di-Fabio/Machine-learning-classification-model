@@ -10,4 +10,4 @@ In this file you can find the full notebook written in Python to predict the sur
 
 ## Actual Result
 
-The model is currently submitted to Kaggle where we are in the top 20% of the leaderboard with an accuracy of 78.225%. See [here](https://www.kaggle.com/gioeleb00/competitions) the result.
+The model is currently submitted to Kaggle where we are in the top 20% of the leaderboard with an accuracy of 78.225%. 
